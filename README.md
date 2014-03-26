@@ -1,4 +1,4 @@
 GSMModem
 ========
 
-Sending SMS Using Modem w/C# | Base Project: Naveed Zaman posted in: www.c-sharpcorner.com
+Sending SMS Using GSM Modem w/C# MVC4 | Base Project: Thanks to Naveed Zaman posted in: www.c-sharpcorner.com
